@@ -25,3 +25,5 @@ They need to analyze key indicators for their pizza sales data to gain insights 
 7. Data visualization
 8. Creating dashboard
 9. Generating insights
+
+Link :- https://www.novypro.com/project/pizzasalesreport
